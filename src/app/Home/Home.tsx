@@ -39,7 +39,7 @@ function HomePage() {
             className='w-[50%]'
             width={500}
             height={500}
-            src='/./home-image.png'
+            src='/home-image.png'
             alt='Peluches leyendo un libro en una cama'
           />
         </div>
