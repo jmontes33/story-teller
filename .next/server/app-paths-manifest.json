@@ -1,0 +1,5 @@
+{
+  "/story-teller/page": "app/story-teller/page.js",
+  "/api/chatgpt/route": "app/api/chatgpt/route.js",
+  "/page": "app/page.js"
+}
