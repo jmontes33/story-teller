@@ -25,7 +25,7 @@ body {
 
 @font-face {
   font-family: 'Acorn-Bold';
-  src: url('/fonts/Acorn-Bold.eot');
+  src: url('/fonts/Acorn-Bold.ttf');
 }
 
 .acorn {
